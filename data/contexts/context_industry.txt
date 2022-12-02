@@ -1,0 +1,9 @@
+Mechatronics is an essential foundation for the expected growth in automation and manufacturing.
+Modern production equipment consists of mechatronic modules that are integrated according to a control architecture.
+Mechatronic systems represent a large part of the functions of an automobile. 
+The control loop formed by sensor information processing, actuator, mechanical (physical) change is found in many systems. 
+One of the top reasons to get a mechatronics degree is the strong technical foundation you will gain in robotics. 
+Robotics is used in the medical and healthcare fields, for the military, or in advanced manufacturing.
+In these positions you'll build robotic solutions that improve manufacturing quality, quantity and productivity; 
+you'll manage, execute and troubleshoot electrical, robotic and automation equipment; and you'll ensure that all robotic equipment is compliant with industry standards.
+The average salary for a robotics technician, according to recruiter.com, is $51,600 per year.

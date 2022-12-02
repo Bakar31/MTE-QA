@@ -57,6 +57,7 @@ Mechatronics specialists work in the fields of cybersecurity, telecommunications
 Mechatronic specialists may use the following job titles:
 Mechatronic specialists have broad multidisciplinary skills, so they are able to move into more traditional engineering disciplines.
 A mechatronics specialist is a creative problem solver who can work on a team. 
+
 Thinking creatively is the first step; being able to communicate good ideas to coworkers involves tact.
 Many mechatronic engineers use computer-aided design (CAD) and other engineering software for modeling, simulating, and analyzing complex mechanical, electronic, or other engineering systems.
 There are many tasks mechatronic specialists perform, depending on their particular industry. 
@@ -84,7 +85,10 @@ And employees with this specialized knowledge have a competitive edge in the hir
 2: View job growth sources and additional salary information
 3: View region sources and additional salary information
 
-Mechatronics engineering is the design of computer-controlled electromechanical systems. The essence of it is that the design of the mechanical system must be performed together with the design of the electrical/electronic and computer control aspects that together, comprise a complete system.
+Mechatronics engineering is the design of computer-controlled electromechanical systems. 
+The essence of it is that the design of the mechanical system must be performed together with the design of the electrical/electronic 
+and computer control aspects that together, comprise a complete system.
+
 Some examples of mechatronic systems include: a CD or DVD player; a computer hard disc drive; a fly-by-wire aircraft control system; and an anti-lock braking system (ABS). Each of these products is essentially mechanical in nature, but could not function without the integral design of the electrical and computer control systems that are critical to their operation.
 The mechatronics program at the University of Waterloo is administered by the department of mechanical and mechatronics�engineering. The courses taken in the mechatronics program differ�significantly from those taken in the mechanical engineering program.
 Half of the second and third-year courses in mechatronics�are provided by the systems design engineering and electrical and computer engineering departments. This makes the mechatronics program�ideal for�students seeking a broad, interdisciplinary engineering education that is�highly integrated and focussed.
@@ -97,20 +101,27 @@ Design and implementation of robotic control systems
 Design and creation of wearable devices
 Development of next-generation additive manufacturing (3D Printing) systems
 Design and development of electric, hybrid, and autonomous vehicles.
+
 The opportunity to design a new engineering program does not come often. A group of professors from Mechanical Engineering, Systems Design Engineering, and Electrical & Computer Engineering�set out to design the 'ideal' Mechatronics curriculum in 2000.�With a virtual clean slate, a set of courses was selected from the three engineering departments that would provide students with the desired combination of skills.
 Whenever the contents of an existing course did not meet the desired requirements, a new course was designed. After much effort, we now feel that we have a program that is unmatched in terms of content and integration. When viewing the curriculum, the courses designated as MTE are the newly designed courses specific to the Mechatronics program; ME courses are from the Mechanical Engineering program, ECE courses are from the Electrical & Computer Engineering program, and SYDE courses are from the Systems Design Engineering program.
 University of Waterloo graduates�often pursue careers in product and software design, technology analysis, program coordination, and more. They usually work for technology companies, manufacturers, and telecommunications companies.
 See where some of our outstanding MME alumni are now, as shown below.
 
-The University of Waterloo acknowledges that much of our work takes place on the traditional territory of the Neutral, Anishinaabeg and Haudenosaunee peoples. Our main campus is situated on the Haldimand Tract, the land granted to the Six Nations that includes six miles on each side of the Grand River. 
+The University of Waterloo acknowledges that much of our work takes place on the traditional territory of the Neutral, Anishinaabeg and Haudenosaunee peoples. 
+Our main campus is situated on the Haldimand Tract, the land granted to the Six Nations that includes six miles on each side of the Grand River. 
 Our active work toward reconciliation takes place across our campuses through research, learning, teaching, and community building, and is centralized within our Office of Indigenous Relations.
 It is my pleasure to welcome all to the website of the Department of Mechatronics Engineering in the Faculty of Mechanical Engineering, Rajshahi University of Engineering & Technology (RUET). 
+
+
 In Bangladesh, RUET is the first public university to introduce Mechatronics Engineering in the year of 2013. This department offers a world-class education to its students. At present, there are nine faculty members who teach over more than 200 undergraduate students each year.
 Rajshahi University of Engineering & Technology (RUET) is the prestigious public Engineering University & center of excellence offers high quality education and research in the field of engineering and technology.
 
 
-A mechatronics degree from PennWest California will prepare you for a career as a mechatronics engineering technologist in a vast array of industries. When someone asks, What can you do with a mechatronics degree? very often the answer is Almost anything you want.
-Mechatronics engineering technologists use a combination of mechanical, electrical, computer and software skills to work with smart technologies, such as robots, automated guided systems and computer-integrated manufacturing equipment. Here are some other items that they do:
+A mechatronics degree from PennWest California will prepare you for a career as a mechatronics engineering technologist in a vast array of industries. 
+When someone asks, What can you do with a mechatronics degree? very often the answer is Almost anything you want.
+
+Mechatronics engineering technologists use a combination of mechanical, electrical, computer and software skills to work with smart technologies, such as robots, 
+automated guided systems and computer-integrated manufacturing equipment. Here are some other items that they do:
 Mechatronics is a high-tech field, and job applicants with a mechatronics engineering technology degree from an accredited program like the one offered at PennWest California are in demand. 
 In fact, the Pennsylvania Department of Labor and Industry has identified mechatronics as a high-priority occupation with rapidly expanding job opportunities.
 As more businesses advance their technologies and turns to sophisticated intellegent systems and robotics, mechatronics engineering will continue to grow in demand. 
@@ -122,7 +133,8 @@ At PennWest California, you'll have ample opportunities to gain hands-on experie
 In these positions you'll build robotic solutions that improve manufacturing quality, quantity and productivity; you'll manage, execute and troubleshoot electrical, robotic and automation equipment; and you'll ensure that all robotic equipment is compliant with industry standards.
 The average salary for a robotics technician, according to recruiter.com, is $51,600 per year.
 
-Mechatronics Careers in Telecommunications and Information Services:Mechatronics engineering technology jobs in telecommunication and information services include roles such as high-voltage engineer, field or cable technician, networking technician, and more. 
+Mechatronics Careers in Telecommunications and Information Services:
+Mechatronics engineering technology jobs in telecommunication and information services include roles such as high-voltage engineer, field or cable technician, networking technician, and more. 
 Job responsibilities can include installing, maintaining and repairing mobile phones, computer networks, videoconferencing equipment, fiber-optic cables, electrical systems and more.
 According to salary.com, telecommunications technicians earn an average salary of $64,240 per year.
 

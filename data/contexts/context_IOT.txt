@@ -1,0 +1,7 @@
+The Internet of things (IoT) is the inter-networking of physical devices, embedded with electronics, software, sensors, actuators, 
+and network connectivity which enable these objects to collect and exchange data.
+IoT and mechatronics are complementary. Many of the smart components associated with the Internet of Things will 
+be essentially mechatronic. The development of the IoT is forcing mechatronics engineers, designers, practitioners and educators 
+to research the ways in which mechatronic systems and components are perceived, designed and manufactured. 
+This allows them to face up to new issues such as data security, machine ethics and the human-machine interface.
+At the intersections of mechanics, electronics, and computing. mechatronics specialists create simpler, smarter systems.
