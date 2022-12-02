@@ -1,0 +1,49 @@
+Mechatronics, also called mechatronics engineering, is an interdisciplinary branch of engineering that focuses on the integration of mechanical, 
+electrical and electronic engineering systems, and also includes a combination of robotics, electronics, computer science, telecommunications, 
+systems, control, and product engineering. Many people treat mechatronics as a modern buzzword synonymous with automation, robotics and electromechanical engineering.
+The intention of mechatronics is to produce a design solution that unifies each of these various subfields. 
+Originally, the field of mechatronics was intended to be nothing more than a combination of mechanics, electrical and electronics, 
+hence the name being a portmanteau of the words "mechanics" and "electronics"; however, as the complexity of technical systems continued to evolve, 
+the definition had been broadened to include more technical areas.
+The word mechatronics originated in Japanese-English and was created by Tetsuro Mori, an engineer of Yaskawa Electric Corporation. 
+The word mechatronics was registered as trademark by the company in Japan with the registration number of "46-32714" in 1971. 
+
+A mechatronics engineer unites the principles of mechanics, electrical, electronics, and computing to generate a simpler, more economical and reliable system. 
+An industrial robot is a prime example of a mechatronics system; it includes aspects of electronics, mechanics, and computing to do its day-to-day jobs.
+Through collaboration, the mechatronic modules perform the production goals and inherit flexible and agile manufacturing properties in the production scheme.
+Modern production equipment consists of mechatronic modules that are integrated according to a control architecture. 
+
+The most known architectures involve hierarchy, polyarchy, heterarchy, and hybrid. 
+The methods for achieving a technical effect are described by control algorithms, which might or might not utilize formal methods in their design. 
+Hybrid systems important to mechatronics include production systems, synergy drives, exploration rovers, automotive subsystems such as anti-lock braking systems and spin-assist, and everyday equipment such as autofocus cameras, video, hard disks, CD players and phones.
+An emerging variant of this field is biomechatronics, whose purpose is to integrate mechanical parts with a human being, usually in the form of removable gadgets such as an exoskeleton. This is the "real-life" version of cyberware.
+Mechatronic systems represent a large part of the functions of an automobile. The control loop formed by sensor -- information processing -- actuator -- mechanical (physical) change is found in many systems. 
+The system size can be very different. The Anti-lock braking system (ABS) is a mechatronic system. The brake itself is also one. And the control loop formed by driving control (for example cruise control), engine, vehicle driving speed in the real world and speed measurement is a mechatronic system, too. 
+The great importance of mechatronics for automotive engineering is also evident from the fact that vehicle manufacturers often have development departments with "Mechatronics" in their names.
+The Internet of things (IoT) is the inter-networking of physical devices, embedded with electronics, software, sensors, actuators, and network connectivity which enable these objects to collect and exchange data.
+IoT and mechatronics are complementary. Many of the smart components associated with the Internet of Things will be essentially mechatronic. The development of the IoT is forcing mechatronics engineers, designers, practitioners and educators to research the ways in which mechatronic systems and components are perceived, designed and manufactured. 
+This allows them to face up to new issues such as data security, machine ethics and the human-machine interface.
+At the intersections of mechanics, electronics, and computing. mechatronics specialists create simpler, smarter systems.
+Mechatronics is a multidisciplinary field that refers to the skill sets needed in the contemporary, advanced automated manufacturing industry. At the intersection of mechanics, electronics, and computing, mechatronics specialists create simpler, smarter
+systems. Mechatronics is an essential foundation for the expected growth in automation and manufacturing.
+Mechatronics deals with robotics, control systems, and electro-mechanical systems.
+Mechatronics specialists can do quite a bit across multiple disciplines and have a solid base from which to grow. 
+Mechatronics specialists know both mechanical and electrical engineering fundamentals they speak both languages so a mechatronics specialist can work with both mechanical and engineering teams.
+Mechatronics specialists work with massive industrial robots, smaller robots in pick-and-place operations, control systems for bottling or packaging of food and drink products, drones, designing control systems for rides in amusement parks, prototype development.
+Some mechatronics specialists are employed in firms where it is necessary to design and maintain automatic equipment. 
+This includes industries such as manufacturing, mining, aviation, robotics, defense, and transport. 
+Other mechatronic specialists are employed by large manufacturing companies involved in high-volume production.
+Many new career opportunities are on the horizon due to technological advances.
+A degree in mechatronics can lead to management positions, including project management.
+Workplaces range from laboratories and processing plants to engineering design offices.
+Mechatronics specialists work in the fields of cybersecurity, telecommunications, computer science, automotive engineering, robotics, artificial intelligence, and consumer products and packaging.
+One of the top reasons to get a mechatronics degree is the strong technical foundation you will gain in robotics. 
+Robotics is used in the medical and healthcare fields, for the military, or in advanced manufacturing. 
+In these positions you'll build robotic solutions that improve manufacturing quality, quantity and productivity; you'll manage, execute and troubleshoot electrical, robotic and automation equipment; and you'll ensure that all robotic equipment is compliant with industry standards.
+The average salary for a robotics technician, according to recruiter.com, is $51,600 per year.
+Mechatronics Careersin Biotechnology, Life Science and Medical Equipment Design:Among the most exciting fields that PennWest California mechatronics engineering technology graduates enter are biotechnology, life science and medical equipment design. 
+A mechatronics engineering degree can prepare you for careers designing and building bio-inspired
+machines and medical devices that mimic the behaviors of humans, animals and plants (this is called bio-mimetics). 
+You also may use knowledge of mechatronics engineering technology to improve clinical equipment, surgical procedures, rehabilitation strategies, micro-implants, prosthesesand more.
+According to salary.com, biomedical engineering technicians earn an average of $62,282 per year.
+According to glassdoor.com, mechatronics engineering technician salaries at the U.S. Department of Defense can range from $85,040 to $91,042, and the average salary for a U.S. Army Corps engineering technicianis $53,329.
