@@ -1,7 +1,7 @@
 # MTE-QA 
 This system will answer your Mechatronics related question.
 The front end will return 2 answer as well as the confidence of the anwser.
-Temporary url: https://3fa67d398c068136.gradio.app
+URL: https://huggingface.co/spaces/Bakar31/MTE_QA
 
 ### This system has limitations. You may see bad answers as the trainning data is not very rich.
 
