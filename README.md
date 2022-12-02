@@ -3,7 +3,7 @@ This system will answer your Mechatronics related question.
 The front end will return 2 answer as well as the confidence of the anwser.
 Temporary url: https://3fa67d398c068136.gradio.app
 
-### This system is has limitations. You may see bad answers as the trainning data is not very rich.
+### This system has limitations. You may see bad answers as the trainning data is not very rich.
 
 Demo questions:
 - what is mechatronics engineering?
