@@ -23,27 +23,11 @@ headers = {
 
 response = requests.get(base_url, params=params, headers=headers)
 content = BeautifulSoup(response.text, 'lxml')
-# next_pages = []
-
-# for page in range(2, 10):
-#     next_page = content.find('a', {'aria-label' : 'Page ' + str(page)}).get('href')
-#     next_page = base_url + next_page
-#     next_pages.append(next_page)
-# print(next_pages)
 
 results = []
 links = [link.next_element['href'] for link in content.find_all(class_ = 'yuRUbf')]
 for index in range(0, len(links)):
     results.append({'link': links[index]})
-
-# for page_url in next_pages:
-#     print(page_url)
-#     response = requests.get(page_url)
-#     content = BeautifulSoup(response.text, 'lxml')
-#     links = [link.next_element['href'] for link in content.find_all(class_ = 'yuRUbf')]
-#     print(content)
-#     for index in range(0, len(links)):
-#         results.append({'link': links[index]})
 print(len(results))
 print(results)
 
