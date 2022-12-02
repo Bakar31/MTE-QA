@@ -1,11 +1,33 @@
-Mechatronics, also called mechatronics engineering, is an interdisciplinary branch of engineering that focuses on the integration of mechanical, electrical and electronic engineering systems, and also includes a combination of robotics, electronics, computer science, telecommunications, systems, control, and product engineering.
+Mechatronics, also called mechatronics engineering, is an interdisciplinary branch of engineering that focuses on the integration of mechanical, 
+electrical and electronic engineering systems, and also includes a combination of robotics, electronics, computer science, telecommunications, 
+systems, control, and product engineering.
+
 As technology advances over time, various subfields of engineering have succeeded in both adapting and multiplying. 
-The intention of mechatronics is to produce a design solution that unifies each of these various subfields. Originally, the field of mechatronics was intended to be nothing more than a combination of mechanics, electrical and electronics, hence the name being a portmanteau of the words "mechanics" and "electronics"; however, as the complexity of technical systems continued to evolve, the definition had been broadened to include more technical areas.
-The word mechatronics originated in Japanese-English and was created by Tetsuro Mori, an engineer of Yaskawa Electric Corporation. The word mechatronics was registered as trademark by the company in Japan with the registration number of "46-32714" in 1971. The company later released the right to use the word to the public, and the word began being used globally. Currently the word is translated into many languages and is considered an essential term for advanced automated industry.
+The intention of mechatronics is to produce a design solution that unifies each of these various subfields. Originally, 
+the field of mechatronics was intended to be nothing more than a combination of mechanics, electrical and electronics, 
+hence the name being a portmanteau of the words "mechanics" and "electronics"; however, as the complexity of technical systems continued to evolve, 
+the definition had been broadened to include more technical areas.
+
+The word mechatronics originated in Japanese-English and was created by Tetsuro Mori, an engineer of Yaskawa Electric Corporation. 
+The word mechatronics was registered as trademark by the company in Japan with the registration number of "46-32714" in 1971. 
+The company later released the right to use the word to the public, and the word began being used globally. 
+Currently the word is translated into many languages and is considered an essential term for advanced automated industry.
 Many people treat mechatronics as a modern buzzword synonymous with automation, robotics and electromechanical engineering.
-French standard NF E 01-010 gives the following definition: "approach aiming at the synergistic integration of mechanics, electronics, control theory, and computer science within product design and manufacturing, in order to improve and/or optimize its functionality".[5]
-A mechatronics engineer unites the principles of mechanics, electrical, electronics, and computing to generate a simpler, more economical and reliable system. The term "mechatronics" was coined by Tetsuro Mori, the senior engineer of the Japanese company Yaskawa in 1969. An industrial robot is a prime example of a mechatronics system; it includes aspects of electronics, mechanics, and computing to do its day-to-day jobs.
-Engineering cybernetics deals with the question of control engineering of mechatronic systems. It is used to control or regulate such a system (see control theory). Through collaboration, the mechatronic modules perform the production goals and inherit flexible and agile manufacturing properties in the production scheme. Modern production equipment consists of mechatronic modules that are integrated according to a control architecture. The most known architectures involve hierarchy, polyarchy, heterarchy, and hybrid. The methods for achieving a technical effect are described by control algorithms, which might or might not utilize formal methods in their design. Hybrid systems important to mechatronics include production systems, synergy drives,
+
+French standard NF E 01-010 gives the following definition: "approach aiming at the synergistic integration of mechanics, electronics, control theory, 
+and computer science within product design and manufacturing, in order to improve and/or optimize its functionality".
+
+A mechatronics engineer unites the principles of mechanics, electrical, electronics, and computing to generate a simpler, 
+more economical and reliable system. 
+
+The term "mechatronics" was coined by Tetsuro Mori, the senior engineer of the Japanese company Yaskawa in 1969. 
+
+An industrial robot is a prime example of a mechatronics system; it includes aspects of electronics, mechanics, and computing to do its day-to-day jobs.
+
+Engineering cybernetics deals with the question of control engineering of mechatronic systems. 
+It is used to control or regulate such a system (see control theory). 
+Through collaboration, the mechatronic modules perform the production goals and inherit flexible and agile manufacturing properties in the production scheme. 
+Modern production equipment consists of mechatronic modules that are integrated according to a control architecture. The most known architectures involve hierarchy, polyarchy, heterarchy, and hybrid. The methods for achieving a technical effect are described by control algorithms, which might or might not utilize formal methods in their design. Hybrid systems important to mechatronics include production systems, synergy drives,
 exploration rovers, automotive subsystems such as anti-lock braking systems and spin-assist, and everyday equipment such as autofocus cameras, video, hard disks, CD players and phones.
 Mechatronics students take courses in various fields:
 Mechanical modeling calls for modeling and simulating physical complex phenomena in the scope of a multi-scale and multi-physical approach. This implies to implement and to manage modeling and optimization methods and tools, which are integrated in a systemic approach.
