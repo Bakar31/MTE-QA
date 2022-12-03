@@ -1,6 +1,6 @@
 # MTE-QA 
 This system will answer your Mechatronics related question.
-The front end will return 2 answer as well as the confidence of the anwser.
+The front end will return 2 answers as well as the confidence of the anwsers.
 URL: https://huggingface.co/spaces/Bakar31/MTE_QA
 
 ### This system has limitations. You may see bad answers as the trainning data is not very rich.
