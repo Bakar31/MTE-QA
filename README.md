@@ -5,7 +5,26 @@ This system will answer your Mechatronics related question.
 The front end will return 2 answers as well as the confidence of the anwsers.
 URL: https://huggingface.co/spaces/Bakar31/MTE_QA
 
-### This system has limitations. You may see bad answers as the trainning data is not very rich.
+<b>My Approch:</b> 
+<p>
+I scraped raw data from  Google and created a dataset. The dataset is not very reach, but as it is a specific problem, 
+it works relatively well. Haystack has been used to train the modeling, 
+and for the frontend I utilized gradio. The system returns two possible answers with its confidence score.
+
+Traning Setting:
+<li>Model: roberta-base-squad2</li>
+<li>max_seq_len = 512</li>
+<li>context_window_size = 150</li>
+<li>doc_stride = 128</li>
+<li>batch_size = 32</li>
+<br>
+
+Multiple models' results were compared. The most effective solution comes from Deepset roberta-base-squad2.</p>
+
+Sample output: <br>
+<img src="sample-1.jpg" width="60%" height="1000"> 
+<img src="sample-1.jpg" width="60%" height="1000">
+
 
 Demo questions:
 - what is mechatronics engineering?
