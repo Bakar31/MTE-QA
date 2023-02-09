@@ -23,7 +23,7 @@ Multiple models' results were compared. The most effective solution comes from D
 
 Sample output: <br>
 <img src="sample-1.jpg" width="60%" height="1000"> 
-<img src="sample-1.jpg" width="60%" height="1000">
+<img src="sample-2.jpg" width="60%" height="1000">
 
 
 Demo questions:
