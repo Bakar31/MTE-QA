@@ -38,14 +38,14 @@ To provide an interface for the system, gradio was used. It an open-source libra
 The question-answering system returns two possible answers along with their corresponding confidence scores. This enables the user to evaluate the quality of the answer and select the most suitable one.
 
 Sample output: <br>
-<img src="sample-1.jpg" width="60%" height="800"> 
-<img src="sample-2.jpg" width="60%" height="800">
+<img src="sample-1.jpg" width="60%" height="1000"> 
+<img src="sample-2.jpg" width="60%" height="1000">
 
 ## Conclusion
 
 This project aims to develop a question-answering system that can answer simple queries related to Mechatronics Engineering. Although the dataset was not extensive, the system is effective for answering basic queries related to the field. This project shows that using question-answering systems can be a useful tool in providing quick and accurate answers to questions related to specific fields.
 
-Demo questions:
+# Demo questions:
 - what is mechatronics engineering?
 - what is the origin of mechatronics?'
 - why persue mechatronics engineering? 
