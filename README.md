@@ -38,8 +38,8 @@ To provide an interface for the system, gradio was used. It an open-source libra
 The question-answering system returns two possible answers along with their corresponding confidence scores. This enables the user to evaluate the quality of the answer and select the most suitable one.
 
 Sample output: <br>
-<img src="sample-1.jpg" width="60%" height="500"> 
-<img src="sample-2.jpg" width="60%" height="500">
+<img src="sample-1.jpg" width="60%" height="700"> 
+<img src="sample-2.jpg" width="60%" height="700">
 
 ## Conclusion
 
